@@ -1,0 +1,13 @@
+{
+    "type": "postgres",
+    "host": "kashin.db.elephantsql.com",
+    "username": "ilpbloou",
+    "password": "2AV_b6HACmBc-vTXLqn-ktSCao3uijN-",
+    "database": "ilpbloou",
+    "migrations": ["src/database/migrations/*.ts"],
+    "entities": ["src/entities/*.ts"],
+    "cli": {
+        "migrationsDir": "src/database/migrations",
+        "entitiesDir": "src/entities"
+    }
+}
