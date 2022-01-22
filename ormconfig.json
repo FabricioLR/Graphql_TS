@@ -1,9 +1,9 @@
 {
     "type": "postgres",
     "host": "kashin.db.elephantsql.com",
-    "username": "ilpbloou",
-    "password": "2AV_b6HACmBc-vTXLqn-ktSCao3uijN-",
-    "database": "ilpbloou",
+    "username": "emrvjnim",
+    "password": "tp-rDeNOUNyHrqHQkjF4x792a9mWMogm",
+    "database": "emrvjnim",
     "migrations": ["src/database/migrations/*.ts"],
     "entities": ["src/entities/*.ts"],
     "cli": {
